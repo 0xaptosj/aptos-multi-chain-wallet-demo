@@ -1,6 +1,6 @@
 #! /bin/bash
 
-NETWORK=testnet
+NETWORK=devnet
 
 CONTRACT_ADDRESS=$(cat ./contract_address.txt)
 
